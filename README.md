@@ -4,9 +4,9 @@ Viết một chương trình minh họa có giao diện menu như sau:
 
 
 
-x Nhap ngay DAY:
-x Nhap thang MONTH:
-x Nhap nam YEAR:
+1/ Nhap ngay DAY:
+2/ Nhap thang MONTH:
+3/ Nhap nam YEAR:
 ----------Bạn hãy chọn 1 trong các thao tác dưới đây ------
 -----
 1. Xuất chuỗi TIME theo định dạng DD/MM/YYYY
