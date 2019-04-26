@@ -1,4 +1,9 @@
 Viết một chương trình minh họa có giao diện menu như sau:
+
+
+
+
+
 x Nhap ngay DAY:
 x Nhap thang MONTH:
 x Nhap nam YEAR:
